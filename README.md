@@ -36,6 +36,3 @@ The performance of the KNN classifier was evaluated on the Iris dataset.
 *   Decision boundary plots help visualize how the KNN classifier separates the different classes based on the value of K.
 
 
-
-## License
-This project is licensed under the MIT License.
